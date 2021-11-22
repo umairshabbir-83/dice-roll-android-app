@@ -1,0 +1,2 @@
+com/example/diceroll/BuildConfig.java
+ com.example.diceroll.BuildConfig
